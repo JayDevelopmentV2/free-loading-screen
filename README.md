@@ -1,3 +1,4 @@
+# Preview https://youtu.be/1imySkOLxHE
 # Simple loading screen
 
 A **clean, lightweight report menu** for FiveM that’s **easy to configure**, **powerful**, and **secure**. Built for servers that want **Discord role–based permissions** without bloat.
